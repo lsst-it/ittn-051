@@ -107,7 +107,7 @@ Considerations
 Investigate
 -----------
 - Continue with AD-Tucson in cloud?
-	- Requires isolated RODC in DMZ (safe enough?)
+  - Requires isolated RODC in DMZ (safe enough?)
 - Can group membership support contain users from various Directory Services (been a problem with Crowd)
 - How will the Project structure groups to improve the method used today?
 - Use 2FA for site changes or sensitive projects?
