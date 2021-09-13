@@ -98,7 +98,7 @@ Examples Existing AD-Tucson, Atlasian, AD-NOIRLab, Github, Google, combinations 
 Considerations
 ---------------
 - Existing Users are mostly Crowd-AD
-- No Crowd Users
+  - No Direct Crowd Users; bridges to AD-Tucson
 - Some local Jira Users (same with Confluence)
 - Not all users of Jira have Github or G-Suite profiles/accounts
 - Not all users are within the AURA/RubinObs Ecosystem
