@@ -78,6 +78,41 @@ Cloud Security
 - https://support.atlassian.com/security-and-access-policies/docs/understand-atlassian-access/
 - https://blog.isostech.com/atlassian-access/crowd-what-you-need-to-know
 
+Our Jira Cloud Instance
+========================
+RubinObs has a Cloud Instance is Jira Software: http://rubinobs.atlassian.net/
+- List of Site Administrators to manage the cloud instance and all projects within
+
+General Topics
+============
+- Outage of General Services
+- Outage Isolating the Base-Summit from Jira Cloud
+- Migrating to another Jira-Like Service
+- Backups of our Data in case of lock outs
+- Security and User Groups
+
+What Directory Service(s) are we to use?
+=======================================
+Examples Existing AD-Tucson, Atlasian, AD-NOIRLab, Github, Google, combinations of these or others
+
+Considerations
+---------------
+*** Existing Users are mostly Crowd-AD
+No Crowd Users
+Some local Jira Users (same with Confluence)
+Not all users of Jira have Github or G-Suite profiles/accounts
+Not all users are within the AURA/RubinObs Ecosystem
+*** Plan on transfer to NOIRLab Jira
+
+*** Investigate
+Continue with AD-Tucson in cloud?
+Requires isolated RODC in DMZ (safe enough?)
+Will NOT punch holes to DCs on LAN
+Can group membership support contain users from various Directory Services (been a problem with Crowd)
+How will the Project structure groups to improve the method used today?
+Use 2FA for site changes or sensitive projects?
+
+
 .. .. rubric:: References
 
 .. Make in-text citations with: :cite:`bibkey`.
