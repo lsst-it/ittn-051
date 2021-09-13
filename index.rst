@@ -97,20 +97,20 @@ Examples Existing AD-Tucson, Atlasian, AD-NOIRLab, Github, Google, combinations 
 
 Considerations
 ---------------
-*** Existing Users are mostly Crowd-AD
-No Crowd Users
-Some local Jira Users (same with Confluence)
-Not all users of Jira have Github or G-Suite profiles/accounts
-Not all users are within the AURA/RubinObs Ecosystem
-*** Plan on transfer to NOIRLab Jira
+- Existing Users are mostly Crowd-AD
+- No Crowd Users
+- Some local Jira Users (same with Confluence)
+- Not all users of Jira have Github or G-Suite profiles/accounts
+- Not all users are within the AURA/RubinObs Ecosystem
+- Plan on transfer to NOIRLab Jira
 
-*** Investigate
-Continue with AD-Tucson in cloud?
-Requires isolated RODC in DMZ (safe enough?)
-Will NOT punch holes to DCs on LAN
-Can group membership support contain users from various Directory Services (been a problem with Crowd)
-How will the Project structure groups to improve the method used today?
-Use 2FA for site changes or sensitive projects?
+Investigate
+-----------
+- Continue with AD-Tucson in cloud?
+-- Requires isolated RODC in DMZ (safe enough?)
+- Can group membership support contain users from various Directory Services (been a problem with Crowd)
+-- How will the Project structure groups to improve the method used today?
+- Use 2FA for site changes or sensitive projects?
 
 
 .. .. rubric:: References
