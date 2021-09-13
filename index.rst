@@ -64,17 +64,17 @@ Information Topics
 ==============
 Note  - Are No Longer Valid
 https://jira.lsstcorp.org/browse/RFC-751
-https://ittn-035.lsst.io/
+https://ittn-035.lsst.io
 Do we need an RFC?
 
 Cloud and Migration Information 
-—————————————————————
+-------------------------------
 - https://www.atlassian.com/cloud/myths/overview
 - https://www.atlassian.com/cloud/guide
 - Data Application footprint <get details but no more than ~200G>
 
 Cloud Security
-———————————
+--------------
 - https://support.atlassian.com/security-and-access-policies/docs/how-to-keep-my-organization-secure/
 - https://support.atlassian.com/security-and-access-policies/docs/understand-atlassian-access/
 - https://blog.isostech.com/atlassian-access/crowd-what-you-need-to-know
