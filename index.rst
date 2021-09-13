@@ -53,6 +53,13 @@
 .. Add content here.
 .. Do not include the document title (it's automatically added from metadata.yaml).
 
+Goal - An Evaluation of Projects
+=========================
+- Will it Move to Cloud or Retired/Deleted
+- Is it only for Construction
+- Will it move to Operations
+- Plan to transition to NOIRLab Jira
+
 .. .. rubric:: References
 
 .. Make in-text citations with: :cite:`bibkey`.
