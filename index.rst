@@ -149,7 +149,35 @@ Prepare Test Migrations
     - Project may fail pre-flight and action will be required
     - Purge non-essential data
 
-Need a list of Add-ons / Project?
+Configure Infrastructure for Directory Service(s)
+-------------------------------------------------
+- This may be required before testing or only to prepare for migration
+- Test the various login methods
+- Test various access and group membership of those logins
+- What sort of “sync” between the Directory Service Account and Jira Account Profile
+	- If I login as iaingoodenow to the account using AD igoodenow in Jira project X
+- Get a list of Local Users of Jira (and Confluence)
+- What about DB Logins like JiraRO used by GC (not sure who now)?
+
+First-Attempt Migrations
+------------------------
+- Basic Import Process and Tests
+- Acceptance Tests to Perform
+- Develop FAQ
+- Need a list of which Add-ons / project?
+
+Prepare and Execute All or Iterate the Actual Migration
+---------------------------------------------------
+- Formal Testing
+  - Stakeholders/Owners need to exercise the work flow and overall functionality
+- Need to Know New Link Locations - How to Handle Communication from IT and Owners to Stakeholders
+
+Close out old system
+--------------------
+- No project should exist
+- Assumed data will be purged and guest deleted    
+
+
 .. .. rubric:: References
 
 .. Make in-text citations with: :cite:`bibkey`.
