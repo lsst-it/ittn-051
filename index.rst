@@ -130,7 +130,6 @@ Backup and Recovery
 Tasks
 ==============
 - Define List of Stakeholder Groups and Rep(s)/Liaison(s) 
-First Guess:
   DM-SQRE Frossie E
   SE Austin R
   Camera ?
