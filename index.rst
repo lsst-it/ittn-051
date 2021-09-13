@@ -62,9 +62,8 @@ An Evaluation of Projects
 
 Information Topics
 ==============
-Note  - Are No Longer Valid
-https://jira.lsstcorp.org/browse/RFC-751
-https://ittn-035.lsst.io
+Are No Longer Valid: https://jira.lsstcorp.org/browse/RFC-751 & https://ittn-035.lsst.io
+
 Do we need an RFC?
 
 Cloud and Migration Information 
