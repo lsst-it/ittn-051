@@ -80,7 +80,7 @@ Cloud Security
 
 Our Jira Cloud Instance
 ========================
-RubinObs has a Cloud Instance is Jira Software: http://rubinobs.atlassian.net/
+- RubinObs has a Cloud Instance is Jira Software: http://rubinobs.atlassian.net/
 - List of Site Administrators to manage the cloud instance and all projects within
 
 General Topics
