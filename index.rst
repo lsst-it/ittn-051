@@ -143,11 +143,11 @@ Others ?
 
 Prepare Test Migrations
 -----------------------
-1. Owner of Site should prepare a document of actions/tests for IT to perform as first check
-2. Owner of Site should have Acceptance Requirements
-3. Owner of Site should prepare the project for migration
-a. Project may fail pre-flight and action will be required
-b. purge non-essential data
+- Owner of Site should prepare a document of actions/tests for IT to perform as first check
+- Owner of Site should have Acceptance Requirements
+- Owner of Site should prepare the project for migration
+    - Project may fail pre-flight and action will be required
+    - Purge non-essential data
 
 Need a list of Add-ons / Project?
 .. .. rubric:: References
