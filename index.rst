@@ -107,12 +107,49 @@ Considerations
 Investigate
 -----------
 - Continue with AD-Tucson in cloud?
-* Requires isolated RODC in DMZ (safe enough?)
+- Requires isolated RODC in DMZ (safe enough?)
 - Can group membership support contain users from various Directory Services (been a problem with Crowd)
-* How will the Project structure groups to improve the method used today?
+- How will the Project structure groups to improve the method used today?
 - Use 2FA for site changes or sensitive projects?
 
+Move all Projects “At Once” or “One-At-Time”
+=========================================
+- Evaluate the different methods
 
+URL Redirect 
+==================
+- Will Issue links from On-Premise Map Well to Cloud Instance
+- Is simple CNAME Record sufficient or Map-Rules required
+
+Backup and Recovery
+========================
+- Any concerns about billing and account lock out?
+- Ransomware affects Cloud
+- Extended Outage when Summit/Base/Operations is in maintenance or operation mode
+
+Tasks
+==============
+- Define List of Stakeholder Groups and Rep(s)/Liaison(s) 
+First Guess:
+DM-SQRE Frossie E
+SE Austin R
+Camera ?
+PMO Budget and Schedule ?
+Pre-Operations Bob B
+NOIRLab Chris M
+General Users ?
+Consumer agents, bots, or services?
+Others ?
+
+Prepare Test Migrations
+-----------------------
+1. Owner of Site should prepare a document of actions/tests for IT to perform as first check
+2. Owner of Site should have Acceptance Requirements
+3. Owner of Site should prepare the project for migration
+a. Project may fail pre-flight and action will be required
+b. purge non-essential data
+
+Need a list of Add-ons / Project?
 .. .. rubric:: References
 
 .. Make in-text citations with: :cite:`bibkey`.
