@@ -130,14 +130,14 @@ Backup and Recovery
 Tasks
 ==============
 - Define List of Stakeholder Groups and Rep(s)/Liaison(s) 
-  DM-SQRE Frossie E
-  SE Austin R
-  Camera ?
-  PMO Budget and Schedule ?
-  Pre-Operations Bob B
-  NOIRLab Chris M
-  General Users ?
-  Consumer agents, bots, or services?
+  DM-SQRE Frossie E, 
+  SE Austin R, 
+  Camera ?, 
+  PMO Budget and Schedule ?, 
+  Pre-Operations Bob B, 
+  NOIRLab Chris M, 
+  General Users ?, 
+  Consumer agents, bots, or services?, 
   Others ?
   
 
